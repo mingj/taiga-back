@@ -13,6 +13,8 @@
   - Add traditional chinese (zh-Hant) translation.
 - Add Jitsi to our supported videoconference apps list
 
+### Quick wins
+- Improve history (and email) comments created by all the GitHub actions
 
 ### Misc
 - New contrib plugin for letschat (by Δndrea Stagi)
